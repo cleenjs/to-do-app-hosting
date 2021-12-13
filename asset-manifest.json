@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/to-do-app-hosting/static/css/main.d7b87ec0.chunk.css",
+    "main.js": "/to-do-app-hosting/static/js/main.5d74be1a.chunk.js",
+    "main.js.map": "/to-do-app-hosting/static/js/main.5d74be1a.chunk.js.map",
+    "runtime-main.js": "/to-do-app-hosting/static/js/runtime-main.edc38470.js",
+    "runtime-main.js.map": "/to-do-app-hosting/static/js/runtime-main.edc38470.js.map",
+    "static/css/2.27175f2b.chunk.css": "/to-do-app-hosting/static/css/2.27175f2b.chunk.css",
+    "static/js/2.4e666fb2.chunk.js": "/to-do-app-hosting/static/js/2.4e666fb2.chunk.js",
+    "static/js/2.4e666fb2.chunk.js.map": "/to-do-app-hosting/static/js/2.4e666fb2.chunk.js.map",
+    "static/js/3.8d6a22f9.chunk.js": "/to-do-app-hosting/static/js/3.8d6a22f9.chunk.js",
+    "static/js/3.8d6a22f9.chunk.js.map": "/to-do-app-hosting/static/js/3.8d6a22f9.chunk.js.map",
+    "index.html": "/to-do-app-hosting/index.html",
+    "static/css/2.27175f2b.chunk.css.map": "/to-do-app-hosting/static/css/2.27175f2b.chunk.css.map",
+    "static/css/main.d7b87ec0.chunk.css.map": "/to-do-app-hosting/static/css/main.d7b87ec0.chunk.css.map",
+    "static/js/2.4e666fb2.chunk.js.LICENSE.txt": "/to-do-app-hosting/static/js/2.4e666fb2.chunk.js.LICENSE.txt",
+    "static/js/main.5d74be1a.chunk.js.LICENSE.txt": "/to-do-app-hosting/static/js/main.5d74be1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edc38470.js",
+    "static/css/2.27175f2b.chunk.css",
+    "static/js/2.4e666fb2.chunk.js",
+    "static/css/main.d7b87ec0.chunk.css",
+    "static/js/main.5d74be1a.chunk.js"
+  ]
+}
