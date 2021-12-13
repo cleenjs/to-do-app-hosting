@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+
+import Tabs from "./components/Tabs/TabsCmp";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return <Tabs />;
 }
 
 export default App;
+
+//! Components
+
+// TODO: Header component
+// Simple HTML title
+
+// TODO: Description component
+// Simple HTML description
+
+// TODO: Form component
+// Simple HTML description
+// TODO: Tabs component
+// TODO: To Do list component
+// TODO: To Do Item component
