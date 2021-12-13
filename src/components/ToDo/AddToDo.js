@@ -16,7 +16,6 @@ const AddToDo = ({ onAddToDo }) => {
       setDisabled(false);
       onAddToDo(enteredToDo);
       setEnteredToDo("");
-      //
     }
   };
 
